@@ -1,4 +1,8 @@
-## Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g1org1owo&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=g1org1owo&show_icons=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g1org1owo&layout=compact&langs_count=8&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g1org1owo&layout=compact&langs_count=8&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 <!--
 **G1org1owo/g1org1owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
